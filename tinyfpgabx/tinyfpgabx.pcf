@@ -1,0 +1,6 @@
+set_io --warn-no-port usbpu A3
+set_io --warn-no-port clk B2
+set_io --warn-no-port led B3
+
+set_io --warn-no-port pin12 J1
+set_io --warn-no-port pin13 H2
